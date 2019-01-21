@@ -1,0 +1,6 @@
+.idea
+/target/
+/nbactions.xml
+/nb-configuration.xml
+/unicentaopos.iml
+*.jar
